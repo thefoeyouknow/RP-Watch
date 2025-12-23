@@ -1,0 +1,14 @@
+{
+  "name": "RPWatch",
+  "version": "1.1.2-Release",
+  "date": "2025-12-23",
+  "artifacts": [
+    { "path": "dist/waveshare_watch_test.uf2", "type": "uf2" },
+    { "path": "build/waveshare_watch_test.elf", "type": "elf" }
+  ],
+  "docs": [
+    "dist/RELEASE_NOTES.md",
+    "dist/USER_GUIDE.md",
+    "dist/FLASHING.md"
+  ]
+}
